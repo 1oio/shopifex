@@ -61,7 +61,7 @@ defmodule Shopifex.MixProject do
       {:react_phoenix, "~> 1.2"},
       {:guardian, "~> 2.0"},
       {:neuron, "~> 5.0.0"},
-      {:cors_plug, "~> 2.0"}
+      {:cors_plug, "~> 3.0"}
     ]
   end
 
